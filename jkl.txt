@@ -3,4 +3,6 @@ mcncn
 knoldus
 premonr
 team
+read
+write
 
